@@ -1,8 +1,8 @@
 class AgentSkillKit < Formula
   desc "Centralized skills repository and CLI toolkit for AI agents"
   homepage "https://github.com/NavanithanS/Agent-Skill-Kit"
-  url "https://pypi.io/packages/source/a/agent-skill-kit/agent_skill_kit-0.1.6.tar.gz"
-  sha256 "384c5c975b3e29b9df4ab7282537a64590ef526eb806585ee228e38c7933704d"
+  url "https://pypi.io/packages/source/a/agent-skill-kit/agent_skill_kit-0.2.0.tar.gz"
+  sha256 "e5268dd99f84d2f63ce1144007f8b9d6669217d514832a686e81b52fdb97bb0c"
   license "MIT"
 
   depends_on "python@3.12"
